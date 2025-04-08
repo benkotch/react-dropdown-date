@@ -1,5 +1,5 @@
 {
-  "name": "react-dropdown-date",
+  "name": "@benkotch/react-dropdown-date",
   "version": "2.2.8-0",
   "description": "Fork of react-dropdown-date with React 18 compatibility",
   "license": "MIT",
