@@ -15,7 +15,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkotch/react-dropdown-date.git"
+    "url": "git+https://github.com/benkotch/react-dropdown-date.git"
   },
   "author": "Satyendra Singh <satyendra1529singh@gmail.com>, (Fork: Ben Kotch benkotch@gmail.com)",
   "peerDependencies": {
