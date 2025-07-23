@@ -1,7 +1,7 @@
 {
   "name": "@benkotch/react-dropdown-date",
-  "version": "2.2.8-0",
-  "description": "Fork of react-dropdown-date with React 18 compatibility",
+  "description": "Fork of react-dropdown-date with React 19 compatibility",
+  "version": "2.2.8-1",
   "license": "MIT",
   "keywords": [
     "react-dropdown-date",
@@ -18,17 +18,17 @@
     "url": "git+https://github.com/benkotch/react-dropdown-date.git"
   },
   "author": "Satyendra Singh <satyendra1529singh@gmail.com>, (Fork: Ben Kotch benkotch@gmail.com)",
-"peerDependencies": {
-  "react": ">=16.8.0 <20.0.0",
-  "react-dom": ">=16.8.0 <20.0.0"
-},
+  "peerDependencies": {
+    "react": ">=16.8.0 <20.0.0",
+    "react-dom": ">=16.8.0 <20.0.0"
+  },
   "devDependencies": {
-     "@types/react": "^19.0.0",
-  "@types/react-dom": "^19.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
-      "react": "^19.0.0",
-  "react-dom": "^19.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "rollup": "^2.79.2",
     "rollup-plugin-typescript2": "^0.27.3",
     "typescript": "^4.9.5"
